@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FeetToMeters</string>
+    <string name="SubBtn">Subtract!</string>
+    <string name="AddBtn">Add</string>
+    <string name="multBtn">Multiply</string>
+    <string name="divBtn">Divide</string>
+</resources>
