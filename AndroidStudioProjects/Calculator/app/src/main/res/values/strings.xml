@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Calculator</string>
-    <string name="addbtn">+</string>
-    <string name="subBtn">-</string>
-    <string name="multBtn">*</string>
-    <string name="divBtn">/</string>
-</resources>
